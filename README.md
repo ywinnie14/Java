@@ -1,13 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. This Repository is for my Java Assignment called SpaceZ.<br>
+
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Java Assignment - SpaceZ.
+PURPOSE OF PROJECT: Console App reading text files.
+VERSION or DATE: 2019 June.
+HOW TO START THIS PROJECT: Start from the Menu class.
+AUTHORS: Winnei Yu
 
