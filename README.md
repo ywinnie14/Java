@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This is the project README file. This Repository is for my Java Assignment called SpaceZ.<br>
+This Repository is for my Java Assignment called SpaceZ.<br>
 
 ------------------------------------------------------------------------
 
