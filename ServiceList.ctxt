@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ServiceList
+comment1.params=
+comment1.target=ServiceList()
+comment2.params=code
+comment2.target=Service\ findService(java.lang.String)
+numComments=3

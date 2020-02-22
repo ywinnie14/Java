@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=iNum
+comment2.target=java.lang.String\ sHorizontal(int)
+comment3.params=iNum
+comment3.target=java.lang.String\ sSpace(int)
+comment4.params=
+comment4.target=void\ opta()
+numComments=5
