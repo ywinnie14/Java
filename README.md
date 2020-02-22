@@ -3,9 +3,9 @@ This is the project README file. This Repository is for my Java Assignment calle
 
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Java Assignment - SpaceZ.
-PURPOSE OF PROJECT: Console App reading text files.
-VERSION or DATE: 2019 June.
-HOW TO START THIS PROJECT: Start from the Menu class.
+PROJECT TITLE: Java Assignment - SpaceZ. <br>
+PURPOSE OF PROJECT: Console App reading text files.<br>
+VERSION or DATE: 2019 June.<br>
+HOW TO START THIS PROJECT: Start from the Menu class.<br>
 AUTHORS: Winnei Yu
 
